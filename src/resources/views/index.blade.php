@@ -8,6 +8,9 @@
 
 <body>
     <h1>{{$content}}</h1>
+    <div class="title">
+        タイトル
+    </div>
 </body>
 
 </html>
